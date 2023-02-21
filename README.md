@@ -23,11 +23,15 @@ https://user-images.githubusercontent.com/106555931/220388969-00637586-10ff-4d6f
 
 <h2>How to install</h2>
 
-1. Download as a zip and unzip the project to get a folder named `fat-finger-guard-chrome-extension-main`
-2. Open google chrome and click the extensions button on the top right (jigsaw peice) ->. click "Manage Extensions" (alternatively go to **chrome://extensions/** in the browser url)
-3. Enable the "Developer mode" on the top right
-4. Click "Load unpacked" on the top left
-5. navigate to the "release" folder of the downloaded project in your file explorer and click select
+1. Download as a zip
+2. unzip the project to get a folder named `fat-finger-guard-chrome-extension-main`
+3. Open google chrome and click the extensions button on the top right (jigsaw peice) ->. click "Manage Extensions" (alternatively go to **chrome://extensions/** in the browser url)
+4. Enable the "Developer mode" on the top right
+5. Click "Load unpacked" on the top left
+6. navigate to the "release" folder of the downloaded project in your file explorer and click select
+<img width="1512" alt="Screenshot 2023-02-21 at 15 50 56" src="https://user-images.githubusercontent.com/106555931/220395388-67dd1340-7dd9-44f3-b445-01a77f7a071a.png">
+
+
 
 <h2>How to develop</h2>
 - prereq - run `npm install`
