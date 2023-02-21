@@ -20,9 +20,6 @@
         "https://blur.io/*`", 
          "storage"
       ],
-    "host_permissions": [
-        "https://*/*"
-    ],
     "web_accessible_resources": [
         {
           "resources": ["index.html"],
