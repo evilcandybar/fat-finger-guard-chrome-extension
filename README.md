@@ -12,6 +12,15 @@ Warning thresholds configurable by percentage in extension popup
 Product Idea by <a href="https://twitter.com/0xAvatar">0xAvatar</a>
 Developed By <a href="https://twitter.com/evilcandybar_">EvilCandyBar</a>
 
+
+<img width="274" alt="Screenshot 2023-02-21 at 15 36 07" src="https://user-images.githubusercontent.com/106555931/220390039-1095d04c-8ced-4c1b-9fc2-5a31154ffa52.png">
+<img width="486" alt="Screenshot 2023-02-21 at 15 35 35" src="https://user-images.githubusercontent.com/106555931/220390042-93072f42-279b-44bf-bae3-75eb52fdfe1f.png">
+<img width="336" alt="Screenshot 2023-02-21 at 15 35 19" src="https://user-images.githubusercontent.com/106555931/220390044-8148e5c7-915a-4a53-8c6f-744b8d1d55cf.png">
+
+https://user-images.githubusercontent.com/106555931/220388969-00637586-10ff-4d6f-af72-756ac79ec4a7.mp4
+
+
+
 <h2>How to install</h2>
 
 1. Download as a zip and unzip the project to get a folder named `fat-finger-guard-chrome-extension-main`
