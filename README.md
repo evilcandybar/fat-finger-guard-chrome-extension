@@ -41,5 +41,6 @@ https://user-images.githubusercontent.com/106555931/220388969-00637586-10ff-4d6f
 4. go to chrome and click refresh on the exttension from the manage extensions page
 
 **Any support would be greatly appreciated:** 
-EvilCandyBar - 0xFFA7AeA6182ed3f3fEC59075B8e4327A4f933Da9
-0xAvatar - 0xFFA7AeA6182ed3f3fEC59075B8e4327A4f933Da9
+EvilCandyBar
+0xFFA7AeA6182ed3f3fEC59075B8e4327A4f933Da9
+
